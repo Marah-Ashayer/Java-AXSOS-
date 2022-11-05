@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.game{
+    margin: 70px;
+
+}
+.your_gold{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 80px;
+    font-family: cursive;
+}
+.container{
+    display: flex;
+    margin-left: 50px;
+    padding: 30px;
+}
+#s1, #s2, #s3, #s4{
+    padding-top: 20px;
+    margin-right: 20px;
+    border: 2px solid black;
+    font-family: cursive;
+    width: 200px;
+    height: 170px;
+    text-align: center;
+    
+}
+.activities{
+    margin-left: 40px;
+    font-family: cursive;
+
+}
+#space{
+    margin-top: 20px;
+    width: 635px;
+    padding: 80px;
+    border: 2px solid black;
+}
+
+button{
+    margin-top: 10px;
+    border: 3px solid black;
+    font-weight: bold;
+    width: 150px;
+    height: 40px;
+}
